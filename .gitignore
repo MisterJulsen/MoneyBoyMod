@@ -1,3 +1,27 @@
-/.gradle
-/.vscode
-/texture
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+.vscode
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+notes.txt
+
+# Files from Forge MDK
+forge*changelog.txt
