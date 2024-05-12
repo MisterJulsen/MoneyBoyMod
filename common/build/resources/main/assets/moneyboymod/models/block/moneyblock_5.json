@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moneyboymod:block/moneyblock_5"
+    }
+}

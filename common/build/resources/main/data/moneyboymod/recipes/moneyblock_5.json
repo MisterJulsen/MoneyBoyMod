@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": [
+            {
+                "item": "moneyboymod:money_5"
+            }
+        ]
+    },
+    "result": {
+        "item": "moneyboymod:moneyblock_5",
+        "count": 1
+    }
+}

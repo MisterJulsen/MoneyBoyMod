@@ -1,0 +1,15 @@
+{
+    "block.moneyboymod.Geldblock_5": "Block aus 5 Geld",
+    "block.moneyboymod.Geldblock_10": "Block aus 10 Geld",
+    "block.moneyboymod.Geldblock_20": "Block aus 20 Geld",
+    "block.moneyboymod.Geldblock_50": "Block aus 50 Geld",
+    "block.moneyboymod.Geldblock_100": "Block aus 100 Geld",
+    
+    "item.moneyboymod.Geld_5": "5 Geld",
+    "item.moneyboymod.Geld_10": "10 Geld",
+    "item.moneyboymod.Geld_20": "20 Geld",
+    "item.moneyboymod.Geld_50": "50 Geld",
+    "item.moneyboymod.Geld_100": "100 Geld",
+
+    "itemGroup.moneyboymod.mod_tab": "Money Boys Mod"
+}

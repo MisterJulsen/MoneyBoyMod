@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "moneyboymod:moneyblock_10"
+      }
+    ],
+    "result": {
+      "item": "moneyboymod:money_10",
+      "count": 9
+    }
+  }
